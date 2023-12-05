@@ -1,6 +1,7 @@
 ###
 
-   Hola 👋, soy Juan Francisco
+Hola 👋, soy Juan Francisco
+
 
 - 🔭 Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN.
 - 🌱  Recientemente terminé mi primer año de la carrera, haciendo múltiples proyectos de distintos lenguajes, con distintas dificultades y con distintos objetivos de aprendizaje.
